@@ -40,5 +40,14 @@ html {
   border: 0.2em solid black;
   border-radius: 1.5em;
 }
+header,
+footer {
+  height: 30px;
+  padding: 1em;
+}
+h2,
+p {
+  margin: 0;
+}
 
 /* Rulesets to be matched up with selectors */
